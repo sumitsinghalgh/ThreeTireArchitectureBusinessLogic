@@ -1,0 +1,14 @@
+C:\Users\Singhals\source\repos\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Singhals\source\repos\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Singhals\source\repos\BusinessLogic\bin\Debug\BusinessObj.dll
+C:\Users\Singhals\source\repos\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Singhals\source\repos\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Singhals\source\repos\BusinessLogic\bin\Debug\BusinessObj.pdb
+C:\Users\Singhals\source\repos\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Singhals\source\repos\BusinessLogic\bin\Debug\DataAccess.dll.config
+C:\Users\Singhals\source\repos\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Singhals\source\repos\BusinessLogic\obj\Debug\BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Singhals\source\repos\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Singhals\source\repos\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Singhals\source\repos\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Singhals\source\repos\BusinessLogic\obj\Debug\BusinessLogic.pdb
